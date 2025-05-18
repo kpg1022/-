@@ -3,7 +3,7 @@ from discord.ext import commands
 import random
 
 # 봇 토큰을 여기에 입력하세요
-TOKEN = 'MTM3MzY5MzYxMjE0Mjg4NzE1Nw.GKlRLJ.tc0iuWKBpw-hJT2CZpyw18y6ckltphK0GWdZQw'
+TOKEN = 'MTM3MzY5MzYxMjE0Mjg4NzE1Nw.GsnPWr.EsFnaPvZ0WK6h1VjBoghpH-Qduht8vqaQcwnJo'
 
 # 봇 설정
 intents = discord.Intents.default()
